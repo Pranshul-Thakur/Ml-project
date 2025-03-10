@@ -34,7 +34,7 @@ lemmatizer = nltk.WordNetLemmatizer()
 
 
 # %%
-API_KEY = 'AIzaSyBDTtiskIRokwlJaJTFaQeI7ymJPGtH_SI'
+API_KEY = 'API_KEY'
 
 
 
